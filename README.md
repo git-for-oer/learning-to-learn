@@ -1,9 +1,11 @@
-Aprender a Aprender
-===================
-Este es un curso de aprender a aprender. Metalearning.
+Learning to Learn
+=================
 
-Licencia: CC: BY-NC-SA
+This is a course about learning to learn.  Metalearning.
 
-Acerca de Git para REA
-----------------------
-Git para la REA es un proyecto de demostración para mostrar cómo Git podría ser útil para la colaboración en torno a la producción de recursos educativos abiertos.
+License: CC: BY-NC-SA
+
+About Git for OER
+-----------------
+
+Git for OER is a demo project to show how Git could be useful for collaboration around the production of Open Educational Resources.
