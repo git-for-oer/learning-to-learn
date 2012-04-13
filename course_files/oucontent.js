@@ -1867,7 +1867,7 @@ if(document.getElementsByTagName) {
   if(body && body.id == 'mod-resource-view') {
     document.write('<link rel="stylesheet" type="text/css" href="'+oucontentSupportFileLocation+'/oucontent-js.css" />');
   } else {
-    document.write('<link rel="stylesheet" type="text/css" href="../Shared/oucontent-js.css" />');
+    document.write('<link rel="stylesheet" type="text/css" href="oucontent-js.css" />');
   }
 }
 
