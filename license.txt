@@ -1,0 +1,4 @@
+Original content in this repository is available under at Creative Commons Attribution Non-Commercial Share-Alike 3.0 Unported license.
+
+./course_files/animation.min.js is available under the BSD license.
+./course_files/yahoo.min.js is available under the BSD license.
