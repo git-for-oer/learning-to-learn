@@ -286,7 +286,7 @@ function oucontent_dynamicLinks(elements, hashParents, type) {
         if (sibling && sibling.className=='oucontent-saq-discussion') {
           sibling.hasRevealLink = true;
           targets = [element, sibling];
-          toggleFunction = oucontentToggleFunction(newLink, targets, targetStyle)
+          toggleFunction = oucontentToggleFunction(newLink, targets, targetStyle);
         }
       }
       
